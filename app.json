@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "HelloWorld",
-    "slug": "HelloWorld",
+    "name": "FilmesApp",
+    "slug": "FilmesApp",
     "platforms": [
       "ios",
       "android",
